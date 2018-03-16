@@ -1,0 +1,19 @@
+{
+  "name": "image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "image.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./image.js"
+  },
+  "keywords": [
+    "images"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "images": "^3.0.1",
+    "single-line-log": "^1.1.2"
+  }
+}
